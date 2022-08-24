@@ -18,5 +18,8 @@ if game.PlaceId == 1962086868 then
      
     elseif game.PlaceId == 6266940721 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Covarun/DexHub/main/stockrise.lua"))()
+    
+    elseif game.PlaceId == 4042427666 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Covarun/DexHub/main/animefight.lua"))()
 
 end
